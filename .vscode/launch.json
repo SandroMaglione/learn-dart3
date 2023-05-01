@@ -5,18 +5,18 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "dart3",
+      "name": "dart3_card_deck",
       "request": "launch",
       "type": "dart",
       "console": "terminal",
-      "program": "dart3/src/main.dart"
+      "program": "dart3/src/card_deck/main.dart"
     },
     {
-      "name": "dart2",
+      "name": "dart2_card_deck",
       "request": "launch",
       "type": "dart",
       "console": "terminal",
-      "program": "dart2/src/main.dart"
+      "program": "dart2/src/card_deck/main.dart"
     }
   ]
 }
